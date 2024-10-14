@@ -1,0 +1,11 @@
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\Users\AbdElrahman_Elmagry\Desktop\MyConsoleApp\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
