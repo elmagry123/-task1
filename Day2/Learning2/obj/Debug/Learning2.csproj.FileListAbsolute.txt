@@ -1,0 +1,7 @@
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\bin\Debug\Learning2.exe.config
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\bin\Debug\Learning2.exe
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\bin\Debug\Learning2.pdb
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\obj\Debug\Learning2.csproj.AssemblyReference.cache
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\obj\Debug\Learning2.csproj.CoreCompileInputs.cache
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\obj\Debug\Learning2.exe
+C:\Users\AbdElrahman_Elmagry\Desktop\Learning2\Learning2\obj\Debug\Learning2.pdb
